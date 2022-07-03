@@ -23,8 +23,8 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
-- SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
+- OWNER NUMBER         [`+1 (450) 234-5985`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
+- SESSION           [`{"clientID":"mwhBwnF+bmWWcNQzO9oc0Q==","serverToken":"1@AN21cdjdmExYrRfYTDM2Rw8QnbZddRNq0+K36g0+wZdU2UyRbB8js6BP5kEjDBlHjoZILmIJglYF8w==","clientToken":"Po3SFi09R9PEeG5Cpm1qWvZipxYqpBRgyFtqK4Wy0uo=","encKey":"QJlOaIXKcQe6tb3/GXgcfJYjU+/C2oy0WXH+xImEgKg=","macKey":"zgKVje988Cqi64NHeA63wx9sDONpOYyHECuag/jmIo8="}`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
 
 <div align="left">
 
